@@ -1,0 +1,12 @@
+
+Installation Directory: /Users/shaili/Documents/GitHub/example_repository/qtm151_fall_2023
+Server Installation Directory: /Users/shaili/Documents/GitHub/example_repository/qtm151_fall_2023
+Data Directory: /Users/shaili/Documents/GitHub/example_repository/qtm151_fall_2023/data
+Database Port: 5432
+Database Superuser: postgres
+Operating System Account: postgres
+Database Service: postgresql-16
+Command Line Tools Installation Directory: /Users/shaili/Documents/GitHub/example_repository/qtm151_fall_2023
+Installation Log: /tmp/install-postgresql.log
+===== Installation completed at: 2023-11-08(YYYY-MM-DD) - 16:01:22(HH:MM:SS) =====
+                            
